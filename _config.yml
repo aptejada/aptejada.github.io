@@ -59,7 +59,7 @@ social-network-links:
   #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-   linkedin: https://www.linkedin.com/in/aptejada/
+   linkedin: "https://www.linkedin.com/in/aptejada/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -73,7 +73,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-   ORCID: https://orcid.org/0009-0003-9940-2914
+   ORCID: "https://orcid.org/0009-0003-9940-2914"
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
