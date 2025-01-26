@@ -23,7 +23,7 @@ navbar-links:
   Work In Progress:
     - msi-gcmicrobiome: "https://github.com/aptejada/GCMicrobiome"
     - dost-viruses: "https://github.com/aptejada/VIPP2"
-  Favorites:
+  Favorites: "favorites"
 
 ################
 # --- Logo --- #
