@@ -4,7 +4,7 @@ title: About me
 subtitle: Dats Aquamariene
 ---
 
-My name is Aubrey Joy Tejada. I have the following qualities:
+My name is Aubrey Joy Tejada
 
 - I have a background in Marine Molecular Biology
 - I am trained in Business, Environmental, and Medical Analytics
