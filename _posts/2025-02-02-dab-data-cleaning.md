@@ -13,13 +13,13 @@ author: Dats Aquamariene
 ---
 
 # **Table of Contents**
-> [Prerequisites](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/dab-data-cleaning.md#prerequisites)
+> [Prerequisites](/_posts/dab-data-cleaning.md#prerequisites)
 > 
-> [Data Background](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/dab-data-cleaning.md#data-background)
+> [Data Background](/_posts/dab-data-cleaning.md#data-background)
 > 
-> [Import and transform dirty data](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/dab-data-cleaning.md#import-and-transform-dirty-data)
+> [Import and transform dirty data](/_posts/dab-data-cleaning.md#import-and-transform-dirty-data)
 > 
-> [Clean the data](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/dab-data-cleaning.md#cleaning-the-data)
+> [Clean the data](/_posts/dab-data-cleaning.md#cleaning-the-data)
 
 # **Prerequisites:**
 * Excel file with uncleaned data
