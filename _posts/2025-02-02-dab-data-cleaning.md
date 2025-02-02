@@ -13,13 +13,15 @@ author: Dats Aquamariene
 ---
 
 # **Table of Contents**
-> [Prerequisites](/_posts/dab-data-cleaning.md#prerequisites)
+> [Prerequisites](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/2025-02-02-dab-data-cleaning.md#prerequisites)
 > 
-> [Data Background](/_posts/dab-data-cleaning.md#data-background)
+> [Data Background](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/2025-02-02-dab-data-cleaning.md#data-background)
 > 
-> [Import and transform dirty data](/_posts/dab-data-cleaning.md#import-and-transform-dirty-data)
+> [Import and transform dirty data](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/2025-02-02-dab-data-cleaning.md#import-and-transform-dirty-data)
 > 
-> [Clean the data](/_posts/dab-data-cleaning.md#cleaning-the-data)
+> [Clean the data](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/2025-02-02-dab-data-cleaning.md#clean-the-data)
+>
+> [Take Away](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/2025-02-02-dab-data-cleaning.md#take-away)
 
 # **Prerequisites:**
 * Excel file with uncleaned data
@@ -65,7 +67,7 @@ Observation
 
 Solution
 > Sort data in ascending order <br>
-![sort-ascending](/assets/img/sort-ascending.png) <br>
+< img src="/assets/img/sort-ascending.png" alt="start" width=40% height=40% /> <br>
 <br>
 
 > Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents <br> 
