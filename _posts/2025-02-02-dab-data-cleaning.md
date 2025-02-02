@@ -60,7 +60,7 @@ Observation
 > Column 1 is for **iso_code** with 98% valid and 2% empty data. 
 
 Solution
-> Arrange data in ascending order
+> Arrange data in ascending order </br>
 > Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents.
 
 
