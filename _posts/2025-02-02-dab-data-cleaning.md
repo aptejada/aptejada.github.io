@@ -132,13 +132,26 @@ Solution
 
 We're almost done!
 
-### Watch out for duplicates and unnecessary data
+### Watch out for duplicates
 Observation
 > Go back to the first column. Notice that LAO is duplicated. Highlight all dataset by selecting all columns from **iso_code** to **income_group** 
 
 Solution
 > Then Right click on the dataset &#8594; Remove duplicates <br>
 > Close the _Filtered Rows_ on the _Applied Steps_
+
+### Remove unnecessary data
+Observation
+> EU is a different region. Obviously, not in South East Asia
+
+Solution
+> Filter the data <br>
+> Click the filter toggle button beside the column ** iso_code **. Uncheck the box beside EU
+> Finally, Apply All steps by saving the PowerQuery
+
+Save and Exit!
+
+
 
 
 
