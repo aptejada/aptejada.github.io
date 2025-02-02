@@ -63,11 +63,28 @@ Solution
 > Sort data in ascending order <br>
 ![sort-ascending](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/sort-ascending.png) <br>
 <br>
-> Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents <br> If you can retrieve info on missing contents per column, modify the dataset to include the info <br>
-<br>
-> Go to _Home_ &#8594; _Remove rows_ &#8594; _Remove blank rows_ <br>
+
+> Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents <br> 
+> Go to _Home_ &#8594; _Remove Rows_ &#8594; _Remove Blank Rows_ <br>
+
 ![empty-rows](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/empty-rows.png) <br>
-> 
+
+> If you can retrieve info on missing contents per column, modify the dataset to include the info. (e.g. based on column 2, null values belong to Philippines. Replace _null_ with PHL <br>
+Go to _Home_ &#8594 _Replace Values_
+
+### Column 2
+Observation
+> Column 2 is for **country** with 98% valid and 2% empty data
+> Country with iso code THA is empty
+
+Solution
+> Follow the same steps done in Column 1. If values are null but data are retrievable elsewhere. Modify the data (e.g THA = Thailand) <br>
+Go to _Home_ &#8594 _Replace Values_
+
+### Column 3
+Observation 
+
+
 
 
 
