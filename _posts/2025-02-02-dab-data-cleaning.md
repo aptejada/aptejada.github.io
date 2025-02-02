@@ -36,7 +36,7 @@ Once you load PowerBI, this image will be prompted.
 
 ![start](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/start.png)
 
-Add the uncleaned data in .xlsx format by clicking the _Import data from Excel_. On the navigator ribbon, click the data of interest. For this demo, I chose the _Expanded SEA dataset (dirty)_.
+Add the uncleaned data in .xlsx format by clicking the _Import data from Excel_. On the navigator ribbon, click the data of interest. For this demo, we chose the _Expanded SEA dataset (dirty)_.
 ![navigator](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/navigator.png)
 
 If you initially click the _load_, PowerBI will prompt error messages. Instead, click _transform_ to check errors and validity status of data.
@@ -62,9 +62,10 @@ Observation
 Solution
 > Sort data in ascending order </br>
 ![sort-ascending](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/sort-ascending.png)
-> Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents </br>
+> Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents </br>. Go to _Home_ -> _Remove rows -> _Remove blank rows
 ![empty-rows](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/empty-rows.png)
 > If you can retrieve info on missing contents per column, modify the dataset to include the info
+> 
 
 
 
