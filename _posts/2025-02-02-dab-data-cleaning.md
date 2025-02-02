@@ -27,6 +27,14 @@ author: Dats Aquamariene
 
 # **Data Background**
 
+A raw dataset with greenhouse gases emissions, economic, and industrial profiles for Southeast Asian region. The dataset is structured as an excel file with each row representing data/values for specific country or region obtained between 1889 to 2018. Each column representing parameters. Here's a general idea of what the structure could look like:
+
+|location information | time period | carbon emission sources | carbon consumption | capita | total greenhouse gases | population | 
+|---------------------|-------------|-------------------------|--------------------|--------|------------------------|------------|
+region | income group |
+-------|--------------|
+
+
   
 # **Import and transform dirty data**
 
