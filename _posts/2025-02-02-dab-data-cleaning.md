@@ -54,7 +54,7 @@ The data preview (encircled) provides insights into the percent validity, errors
 
 **Let's begin cleaning!**
 
-### **iso_code**
+### [1] **iso_code**
 
 Observation
 > With 98% valid and 2% empty data. 
@@ -72,7 +72,7 @@ Solution
 > If you can retrieve info on missing contents per column, modify the dataset to include the info. (e.g. based on column 2, null values belong to Philippines. Replace _null_ with PHL <br>
 Go to _Home_ &#8594; _Replace Values_
 
-### [1] **country**
+### [2] **country**
 Observation
 > With 98% valid and 2% empty data
 > Country with iso code THA is empty
@@ -81,7 +81,7 @@ Solution
 > Follow the same steps done in Column 1. If values are null but data are retrievable elsewhere. Modify the data (e.g THA = Thailand) <br>
 Go to _Home_ &#8594; _Replace Values_
 
-### [2] **year**
+### [3] **year**
 Observation 
 > Data type is in _whole number_. Error is 100%
 
@@ -91,7 +91,7 @@ Solution
 > Close the last step on the _Applied Steps_ section and change the Error into 1919 <br>
 > Right-click on the column name &#8594; Click the _Replace Errors_ &#8594; Write 1919 as the replaced value &#8594; Close the _Kept Errors_ on the _Applied Steps_
 
-### [3] flaring_co2_per_capita
+### [4] flaring_co2_per_capita
 Observation
 > With 6% Error
 
@@ -100,7 +100,7 @@ Solution
 > Close the _sorted by Rows_ step. Then go to _Home_ &#8594; _Keep Errors_ &#8594; Right click column name &#8594; Replace Error "zero" with "0" <br>
 > Close _Kept Errors_
 
-### [4] population
+### [5] population
 Observation
 > Arranged data in descending order. I observed that some data has string data type (e.g 118 thousand) and <br>
 > Has negative values
@@ -112,7 +112,7 @@ Solution
 > Right click on column name &#8594; Click _Absolute Value_ <br>
 > Recheck if errors persist. Go to Keep Rows &#8594; Keep Errors &#8594; Close the _Kept Errors step_
 
-### [5] region
+### [6] region
 Observation
 > Data column shows no % Error however, <br> 
 > Presence of _Central Asia_ in the data. Recall the data background. This data should only report data from South East Asian regions. If you look at the **iso_code** and **country**, almost all are located in South East Asia
@@ -121,7 +121,7 @@ Solution
 > Replace string value _Central Asia_ as _South East Asia_ <br>
 > Go to _Transform_ or right click then _Replace Value_
 
-### [6] income_group
+### [7] income_group
 Observation
 > Column categorized data into 3 groups: _High Income_, _Lower middle income_, _Upper middle income_ but a _null_ group was observed
 > _null_ group falls under Philippines which is considered as _Lower middle income_ group
@@ -132,7 +132,7 @@ Solution
 
 We're almost done!
 
-### Watch out for duplicates
+### [8] Watch out for duplicates
 Observation
 > Go back to the first column. Notice that LAO is duplicated. Highlight all dataset by selecting all columns from **iso_code** to **income_group** 
 
@@ -140,7 +140,7 @@ Solution
 > Then Right click on the dataset &#8594; Remove duplicates <br>
 > Close the _Filtered Rows_ on the _Applied Steps_
 
-### Remove unnecessary data
+### [9] Remove unnecessary data
 Observation
 > EU is a different region. Obviously, not in South East Asia
 
