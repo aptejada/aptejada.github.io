@@ -86,29 +86,28 @@ Observation
 > Data type is in _whole number_. Error is 100%
 
 Solution
-> Go to _Home_ &#8594; _Keep Errors_ &#8594; Click on Error within the column to see details
-> Report detail says ** DataFormat.Error: We couldn't convert to Number. Details: Year 1919 **
-> Close the last step on the _Applied Steps_ section and change the Error into 1919
+> Go to _Home_ &#8594; _Keep Errors_ &#8594; Click on Error within the column to see details <br>
+> Report detail says ** DataFormat.Error: We couldn't convert to Number. Details: Year 1919 ** <br>
+> Close the last step on the _Applied Steps_ section and change the Error into 1919 <br>
 > Right-click on the column name &#8594; Click the _Replace Errors_ &#8594; Write 1919 as the replaced value &#8594; Close the _Kept Errors_ on the _Applied Steps_
-
 
 ### flaring_co2_per_capita
 Observation
 > With 6% Error
 
 Solution
-> Sort in _ascending order_. ** DataFormat.Error: We couldn't convert to Number. Details: zero **
-> Close the _sorted by Rows_ step. Then go to _Home_ &#8594; _Keep Errors_ &#8594; Right click column name &#8594; Replace Error "zero" with "0"
+> Sort in _ascending order_. ** DataFormat.Error: We couldn't convert to Number. Details: zero ** <br>
+> Close the _sorted by Rows_ step. Then go to _Home_ &#8594; _Keep Errors_ &#8594; Right click column name &#8594; Replace Error "zero" with "0" <br>
 > Close _Kept Errors_
 
 ### Population
 Observation
-> Arranged data in descending order. I observed that some data has string data type (e.g 118 thousand) and
+> Arranged data in descending order. I observed that some data has string data type (e.g 118 thousand) and <br>
 > Has negative values
 
 Solution
-> Go to Transform &#8594; Replace Values; &#8594; Manually change strings into numerical equivalent
-> Sort data in descending order to check if strings are still present. 
+> Go to Transform &#8594; Replace Values; &#8594; Manually change strings into numerical equivalent <br>
+> Sort data in descending order to check if strings are still present <br>
 > Transform the negative values into absolute values <br>
 > Right click on column name &#8594; Click _Absolute Value_
 > Keep Rows &#8594; Keep Errors &#8594; Check every details of errors
