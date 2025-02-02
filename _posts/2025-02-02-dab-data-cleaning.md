@@ -26,7 +26,7 @@ author: Dats Aquamariene
 * PowerBI
 
 # **Data Background**
-<intentionally left blank. Will get back here>
+
   
 # **Import and transform dirty data**
 
