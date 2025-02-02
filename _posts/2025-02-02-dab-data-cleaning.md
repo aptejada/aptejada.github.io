@@ -61,7 +61,10 @@ Observation
 
 Solution
 > Arrange data in ascending order </br>
-> Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents.
+
+> Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents </br>
+> If you can retrieve info on missing contents per column, modify the dataset to include the info </br>
+
 
 
 
