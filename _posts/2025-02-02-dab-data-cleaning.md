@@ -70,7 +70,7 @@ Solution
 ![empty-rows](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/empty-rows.png) <br>
 
 > If you can retrieve info on missing contents per column, modify the dataset to include the info. (e.g. based on column 2, null values belong to Philippines. Replace _null_ with PHL <br>
-Go to _Home_ &#8594 _Replace Values_
+Go to _Home_ &#8594; _Replace Values_
 
 ### Column 2
 Observation
@@ -79,10 +79,18 @@ Observation
 
 Solution
 > Follow the same steps done in Column 1. If values are null but data are retrievable elsewhere. Modify the data (e.g THA = Thailand) <br>
-Go to _Home_ &#8594 _Replace Values_
+Go to _Home_ &#8594; _Replace Values_
 
 ### Column 3
 Observation 
+> Column 3 is for **year**. Data type is in _whole number_. Error is 100%
+
+Solution
+> Go to _Home_ &#8594; _Keep Errors_ &#8594; Click on Error within the column to see details
+> Report detail says ** DataFormat.Error: We couldn't convert to Number. Details: Year 1919 **
+> Close the last step on the _Applied Steps_ section and change the Error into 1919
+> Right-click on the column name &#8594; Click the _Replace Errors_ &#8594; Write 1919 as the replaced value
+
 
 
 
