@@ -32,7 +32,7 @@ A raw dataset with greenhouse gases emissions, economic, and industrial profiles
 |location information | time period | carbon emission sources | carbon consumption | capita | total greenhouse gases | population | 
 |---------------------|-------------|-------------------------|--------------------|--------|------------------------|------------|
 
-
+This dataset was provided by Eskwelabs. Intentionally left uncleaned for training purposes.
   
 # **Import and transform dirty data**
 
