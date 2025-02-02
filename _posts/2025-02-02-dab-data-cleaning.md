@@ -64,7 +64,7 @@ Solution
 ![sort-ascending](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/sort-ascending.png) <br>
 > Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents </br>. Go to _Home_ &#8594; _Remove rows_ &#8594; _Remove blank rows_ <br>
 ![empty-rows](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/empty-rows.png) <br>
-> If you can retrieve info on missing contents per column, modify the dataset to include the info
+> If you can retrieve info on missing contents per column, modify the dataset to include the info <br>
 > 
 
 
