@@ -7,7 +7,8 @@ gh-repo: https://github.com/aptejada/aptejada.github.io/blob/master/_posts/dab-d
 gh-badge: [star, fork, follow]
 tags: [PowerBI,data,analytics,data cleaning]
 comments: true
-mathjax: true
+thumbnail-img: /assets/img/power-bi-logo.png
+mathjax: false
 author: Dats Aquamariene
 ---
 
