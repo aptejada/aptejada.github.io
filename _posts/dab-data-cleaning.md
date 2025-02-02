@@ -23,4 +23,6 @@ If you initially click the _load_, PowerBI will prompt error messages. Instead, 
 ![load and transform](https://github.com/aptejada/aptejada.github.io/tree/master/images/loadandtransform.png)
 
 You will be redirected to the PowerQuery user interface to edit your uncleaned data.
-![](https://github.com/aptejada/aptejada.github.io/tree/master/images/start.png)
+![power-query](https://github.com/aptejada/aptejada.github.io/tree/master/images/power-query.png)
+
+Notice the encircled details. The current Power Query editor profile is based on 1000 samples only, click on that and choose an option covering the entire dataset.
