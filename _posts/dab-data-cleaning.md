@@ -2,7 +2,7 @@
 layout: post
 title: Data Cleaning Using PowerBI
 subtitle: Garbage In, Garbage Out!
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/powerbi-logo.png
 author: Dats Aquamariene
 ---
 
