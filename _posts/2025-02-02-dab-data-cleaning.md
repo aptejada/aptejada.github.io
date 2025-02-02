@@ -3,7 +3,7 @@ layout: post
 title: Data Cleaning Using PowerBI
 subtitle: Garbage In, Garbage Out!
 cover-img: /assets/img/powerbi-logo.png
-gh-repo: https://github.com/aptejada/aptejada.github.io/blob/master/_posts/dab-data-cleaning.md
+gh-repo: https://github.com/aptejada/aptejada.github.io
 gh-badge: [star, fork, follow]
 tags: [PowerBI,data,analytics,data cleaning]
 comments: true
