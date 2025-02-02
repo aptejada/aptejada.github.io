@@ -46,8 +46,11 @@ You will be redirected to the PowerQuery user interface to edit your uncleaned d
 Notice the encircled details. The current Power Query editor profile is based on 1000 samples only, click on that and choose an option covering the entire dataset.
 
 # **Clean the Data**
-You are now here. The data preview (encircled) provides insights into the percent validity, errors, and empty profile of the dataset (boxed). Use this as a guide to clean data per column.
+You are now here! 
+![data-preview](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/data-preview.png)
+The data preview (encircled) provides insights into the percent validity, errors, and empty profile of the dataset (boxed). Use this as a guide to clean data per column.
 
 **Let's begin cleaning!**
 
-Column 1
+Column 1 |iso_code|
+
