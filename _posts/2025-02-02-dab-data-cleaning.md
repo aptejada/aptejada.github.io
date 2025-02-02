@@ -38,7 +38,8 @@ This dataset was provided by Eskwelabs. Intentionally left uncleaned for trainin
 
 Once you load PowerBI, this image will be prompted. 
 
-<img src="https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/start.png" alt="start" width="40%"/>
+![start]({{'/assets/img/power-query.png' | relative url}})
+
 
 Add the uncleaned data in .xlsx format by clicking the _Import data from Excel_. On the navigator ribbon, click the data of interest. For this demo, we chose the _Expanded SEA dataset (dirty)_.
 ![navigator](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/navigator.png)
