@@ -24,6 +24,7 @@ navbar-links:
     - msi-gcmicrobiome: "https://github.com/aptejada/GCMicrobiome"
     - dost-viruses: "https://github.com/aptejada/VIPP2"
     - eskwelabs-dabootcamp: "https://github.com/aptejada/eskwelabs-dab"
+  Blog: "blog"
   Favorites: "favorites"
 
 ################
