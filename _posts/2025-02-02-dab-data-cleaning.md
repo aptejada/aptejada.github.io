@@ -146,7 +146,7 @@ Observation
 
 Solution
 > Filter the data <br>
-> Click the filter toggle button beside the column ** iso_code **. Uncheck the box beside EU
+> Click the filter toggle button beside the column **iso_code**. Uncheck the box beside EU
 > Finally, Apply All steps by saving the PowerQuery
 
 Save and Exit!
