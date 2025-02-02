@@ -144,7 +144,7 @@ Solution
 > Then Right click on the dataset &#8594; Remove duplicates <br>
 > Close the _Filtered Rows_ on the _Applied Steps_
 
-### [9] Remove unnecessary data
+### [9] Remove unnecessary data, outliers, or anomalies
 Observation
 > EU is a different region. Obviously, not in South East Asia
 
@@ -157,6 +157,9 @@ Solution
 
 # Take Away
 
+Cleaning data is time-intensive but pivotal step in data analytics. We had to be keen checking for anomalies, missing values, duplicates, data format and types. 
+
+With PowerBI, we prepared a clean, reliable, and format consistent data ready for analysis and visualization.
 
 _ciao, I'm dozing off!_
 
