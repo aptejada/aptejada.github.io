@@ -26,7 +26,9 @@ author: Dats Aquamariene
 * PowerBI
 
 # **Data Background**
-
+The dataset contains
+Eskwelabs
+Sprint 1
   
 # **Import and transform dirty data**
 
@@ -52,5 +54,16 @@ The data preview (encircled) provides insights into the percent validity, errors
 
 **Let's begin cleaning!**
 
-Column 1 |iso_code|
+Column 1: 
+Observation
+> Column 1 is for **iso_code** with 98% valid and 2% empty data. 
+
+Solution
+> Arranged data in ascending order
+> 
+
+
+
+
+
 
