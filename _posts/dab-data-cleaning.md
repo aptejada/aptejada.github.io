@@ -5,7 +5,9 @@ subtitle: Garbage In, Garbage Out!
 author: Dats Aquamariene
 ---
 
-# **Import and transform dirty data**\
+# **Table of Contents**
+> 
+# **Import and transform dirty data**
 
 ### Prerequisites:
 * Excel file with uncleaned data
