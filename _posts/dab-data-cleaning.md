@@ -4,11 +4,22 @@ title: Data Cleaning Using PowerBI
 subtitle: Garbage In, Garbage Out!
 author: Dats Aquamariene
 ---
+
 # **Table of Contents**
+> [Prerequisites](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/dab-data-cleaning.md#prerequisites)
+> 
+> [Data Background](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/dab-data-cleaning.md#data-background)
+> 
+> [Import and transform dirty data](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/dab-data-cleaning.md#import-and-transform-dirty-data)
+> 
+> [Clean the data](https://github.com/aptejada/aptejada.github.io/edit/master/_posts/dab-data-cleaning.md#cleaning-the-data)
 
 # **Prerequisites:**
 * Excel file with uncleaned data
 * PowerBI
+
+# **Data Background**
+
   
 # **Import and transform dirty data**
 
@@ -26,3 +37,10 @@ You will be redirected to the PowerQuery user interface to edit your uncleaned d
 ![power-query](https://github.com/aptejada/aptejada.github.io/tree/master/images/power-query.png)
 
 Notice the encircled details. The current Power Query editor profile is based on 1000 samples only, click on that and choose an option covering the entire dataset.
+
+# **Clean the Data**
+You are now here. The data preview (encircled) provides insights into the percent validity, errors, and empty profile of the dataset (boxed). Use this as a guide to clean data per column.
+
+**Let's begin cleaning!**
+
+Column 1
