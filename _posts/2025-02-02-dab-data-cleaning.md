@@ -31,8 +31,6 @@ A raw dataset with greenhouse gases emissions, economic, and industrial profiles
 
 |location information | time period | carbon emission sources | carbon consumption | capita | total greenhouse gases | population | 
 |---------------------|-------------|-------------------------|--------------------|--------|------------------------|------------|
-region | income group |
--------|--------------|
 
 
   
