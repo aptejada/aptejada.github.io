@@ -41,19 +41,19 @@ Once you load PowerBI, this image will be prompted.
 ![start](/assets/img/start.png)
 
 Add the uncleaned data in .xlsx format by clicking the _Import data from Excel_. On the navigator ribbon, click the data of interest. For this demo, we chose the _Expanded SEA dataset (dirty)_.
-![navigator](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/navigator.png)
+![navigator](/assets/img/navigator.png)
 
 If you initially click the _load_, PowerBI will prompt error messages. Instead, click _transform_ to check errors and validity status of data.
-![load and transform](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/loadandtransform.png)
+![load and transform](/assets/img/loadandtransform.png)
 
 You will be redirected to the PowerQuery user interface to edit your uncleaned data.
-![power-query](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/power-query.png)
+![power-query](/assets/img/power-query.png)
 
 Notice the encircled details. The current Power Query editor profile is based on 1000 samples only, click on that and choose an option covering the entire dataset.
 
 # **Clean the Data**
 You are now here! 
-![data-preview](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/data-preview.png)
+![data-preview](/assets/img/data-preview.png)
 The data preview (encircled) provides insights into the percent validity, errors, and empty profile of the dataset (boxed). Use this as a guide to clean data per column.
 
 **Let's begin cleaning!**
@@ -65,13 +65,13 @@ Observation
 
 Solution
 > Sort data in ascending order <br>
-![sort-ascending](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/sort-ascending.png) <br>
+![sort-ascending](/assets/img/sort-ascending.png) <br>
 <br>
 
 > Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents <br> 
 > Go to _Home_ &#8594; _Remove Rows_ &#8594; _Remove Blank Rows_ <br>
 
-![empty-rows](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/empty-rows.png) <br>
+![empty-rows](/assets/img/empty-rows.png) <br>
 
 > If you can retrieve info on missing contents per column, modify the dataset to include the info. (e.g. based on column 2, null values belong to Philippines. Replace _null_ with PHL <br>
 Go to _Home_ &#8594; _Replace Values_
