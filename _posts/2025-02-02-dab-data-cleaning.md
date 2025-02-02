@@ -91,7 +91,7 @@ Solution
 > Close the last step on the _Applied Steps_ section and change the Error into 1919 <br>
 > Right-click on the column name &#8594; Click the _Replace Errors_ &#8594; Write 1919 as the replaced value &#8594; Close the _Kept Errors_ on the _Applied Steps_
 
-### flaring_co2_per_capita
+### [3] flaring_co2_per_capita
 Observation
 > With 6% Error
 
@@ -100,7 +100,7 @@ Solution
 > Close the _sorted by Rows_ step. Then go to _Home_ &#8594; _Keep Errors_ &#8594; Right click column name &#8594; Replace Error "zero" with "0" <br>
 > Close _Kept Errors_
 
-### population
+### [4] population
 Observation
 > Arranged data in descending order. I observed that some data has string data type (e.g 118 thousand) and <br>
 > Has negative values
@@ -112,7 +112,7 @@ Solution
 > Right click on column name &#8594; Click _Absolute Value_ <br>
 > Recheck if errors persist. Go to Keep Rows &#8594; Keep Errors &#8594; Close the _Kept Errors step_
 
-### region
+### [5] region
 Observation
 > Data column shows no % Error however, <br> 
 > Presence of _Central Asia_ in the data. Recall the data background. This data should only report data from South East Asian regions. If you look at the **iso_code** and **country**, almost all are located in South East Asia
@@ -121,7 +121,7 @@ Solution
 > Replace string value _Central Asia_ as _South East Asia_ <br>
 > Go to _Transform_ or right click then _Replace Value_
 
-### income_group
+### [6] income_group
 Observation
 > Column categorized data into 3 groups: _High Income_, _Lower middle income_, _Upper middle income_ but a _null_ group was observed
 > _null_ group falls under Philippines which is considered as _Lower middle income_ group
@@ -149,7 +149,9 @@ Solution
 > Click the filter toggle button beside the column **iso_code**. Uncheck the box beside EU
 > Finally, Apply All steps by saving the PowerQuery
 
-Save and Exit!
+### Save and Exit!
+
+_ciao, I'm sleepy!_
 
 
 
