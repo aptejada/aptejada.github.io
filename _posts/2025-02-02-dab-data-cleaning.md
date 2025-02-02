@@ -26,9 +26,7 @@ author: Dats Aquamariene
 * PowerBI
 
 # **Data Background**
-The dataset contains
-Eskwelabs
-Sprint 1
+<intentionally left blank. Will get back here>
   
 # **Import and transform dirty data**
 
