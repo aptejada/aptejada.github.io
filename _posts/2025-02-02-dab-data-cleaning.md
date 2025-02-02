@@ -60,10 +60,11 @@ Observation
 > Column 1 is for **iso_code** with 98% valid and 2% empty data. 
 
 Solution
-> Arrange data in ascending order </br>
-
+> Sort data in ascending order </br>
+![sort-ascending](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/sort-ascending.png)
 > Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents </br>
-> If you can retrieve info on missing contents per column, modify the dataset to include the info </br>
+![empty-rows](https://github.com/aptejada/aptejada.github.io/tree/master/assets/img/empty-rows.png)
+> If you can retrieve info on missing contents per column, modify the dataset to include the info
 
 
 
