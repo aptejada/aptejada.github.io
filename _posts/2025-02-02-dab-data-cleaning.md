@@ -140,7 +140,9 @@ We're almost done!
 
 ### [8] Watch out for duplicates
 Observation
-> Go back to the first column. Notice that LAO is duplicated. Highlight all dataset by selecting all columns from **iso_code** to **income_group** 
+> Go back to the first column. Notice that LAO is duplicated. Highlight all dataset by selecting all columns from **iso_code** to **income_group**
+> ![duplicates](/assets/img/duplicates.png) <br>
+
 
 Solution
 > Then Right click on the dataset &#8594; Remove duplicates <br>
@@ -154,6 +156,7 @@ Solution
 > Filter the data <br>
 > Click the filter toggle button beside the column **iso_code**. Uncheck the box beside EU
 > Finally, Apply All steps by saving the PowerQuery
+> ![fin](/assets/img/fin.png) <br>
 
 ### Save and Exit!
 
