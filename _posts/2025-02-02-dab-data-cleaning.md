@@ -67,7 +67,7 @@ Observation
 
 Solution
 > Sort data in ascending order <br>
-> <img src="/assets/img/sort-ascending.png" alt="start" width=40% height=40%> <br>
+> ![ascending](/assets/img/sort-ascending.png) <br>
 <br>
 
 > Check other columns before removing the _null_. Here, you see that there are 13 empty rows. Remove these empty rows but be careful not to include rows with contents <br> 
