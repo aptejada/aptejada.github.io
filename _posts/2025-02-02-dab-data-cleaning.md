@@ -164,7 +164,7 @@ Solution
 
 ### Bonus
 Here is the list of steps used to _dirtify_ the dataset
-![guide](/assets/img/guide.png)
+![guide](/assets/img/guide.jpg)
 
 # Take Away
 
