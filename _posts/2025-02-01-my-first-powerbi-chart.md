@@ -12,3 +12,4 @@ author: Dats Aquamariene
 ---
 
 
+![my-first-powerbi](/assets/img/my-first-powerbi.png)
