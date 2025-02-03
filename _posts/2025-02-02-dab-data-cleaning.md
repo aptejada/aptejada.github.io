@@ -90,6 +90,7 @@ Go to _Home_ &#8594; _Replace Values_
 ### [3] **year**
 Observation 
 > Data type is in _whole number_. Error is 100%
+> ![year](/assets/img/year.png)
 
 Solution
 > Go to _Home_ &#8594; _Keep Errors_ &#8594; Click on Error within the column to see details <br>
@@ -100,6 +101,7 @@ Solution
 ### [4] flaring_co2_per_capita
 Observation
 > With 6% Error
+> ![flaring](/assets/img/flaring.png)
 
 Solution
 > Sort in _ascending order_. ** DataFormat.Error: We couldn't convert to Number. Details: zero ** <br>
