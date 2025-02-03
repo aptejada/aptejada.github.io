@@ -172,6 +172,10 @@ Cleaning data is time-intensive but pivotal step in data analytics. We had to be
 
 With PowerBI, we prepared a clean, reliable, and format consistent data ready for analysis and visualization.
 
+# Acknowledgment
+
+Special thanks goes to _Luigi_ (Instructor) and _JC_ (Mentor) who shared time and expertise during our Data Analytics - Data Cleaning Sprint
+
 _ciao, I'm dozing off!_
 
 
