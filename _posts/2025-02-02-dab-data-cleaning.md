@@ -174,7 +174,7 @@ With PowerBI, we prepared a clean, reliable, and format consistent data ready fo
 
 # Acknowledgment
 
-Special thanks goes to _Luigi_ (Instructor) and _JC_ (Mentor) who shared time and expertise during our Data Analytics - Data Cleaning Sprint
+Special thanks goes to _Luigi (Instructor)_ and _JC (Mentor)_ who shared time and expertise during our Data Analytics - Data Cleaning Sprint
 
 _ciao, I'm dozing off!_
 
