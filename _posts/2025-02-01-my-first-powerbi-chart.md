@@ -12,3 +12,16 @@ thumbnail-img: false
 mathjax: false
 author: Dats Aquamariene
 ---
+
+# **Table of Contents**
+> [Prerequisites](#prerequisites)
+> 
+> [Data Background](#data-background)
+> 
+> [Take Away](#take-away)
+>
+> [Acknowledgment](#acknowledgement)
+
+# **Prerequisites:**
+* Excel file with cleaned data
+* PowerBI
