@@ -6,9 +6,8 @@ subtitle: You will never forget your first l...I mean PowerBI!
 cover-img: /assets/img/my-first-powerbi.png
 gh-repo: https://github.com/aptejada/aptejada.github.io
 gh-badge: [star, fork, follow]
-tags: [PowerBI, dashboard, visualization, charts]
+tags: [PowerBI,dashboard,visualization,charts]
 comments: true
-thumbnail-img: false
 mathjax: false
 author: Dats Aquamariene
 ---
