@@ -162,6 +162,10 @@ Solution
 
 ### Save and Exit!
 
+### Bonus
+Here is the list of steps used to _dirtify_ the dataset
+![guide](/assets/img/guide.png)
+
 # Take Away
 
 Cleaning data is time-intensive but pivotal step in data analytics. We had to be keen checking for anomalies, missing values, duplicates, data format and types. 
