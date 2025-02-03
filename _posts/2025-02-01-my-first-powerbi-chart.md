@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My First PowerBI Chart
-subtitle: You will never forget your first l...I mean PowerBI!
+title: My First Power BI Chart
+subtitle: You will never forget your first l..., I mean Power BI!
 cover-img: /assets/img/my-first-powerbi.png
 gh-repo: https://github.com/aptejada/aptejada.github.io
 gh-badge: [star, fork, follow]
