@@ -207,6 +207,7 @@ If you'd like to showcase yourself and join this list, [upgrading to the Individ
 
 # Next steps
 
+
 Congratulations on making it this far! You now have all the tools to easily build a beautiful website for free. 
 
 - After you get comfortable with the basics of writing in markdown, I suggest taking a look at this [sample post](https://beautifuljekyll.com/2020-02-28-sample-markdown/) and [the code that created it](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about markdown.
