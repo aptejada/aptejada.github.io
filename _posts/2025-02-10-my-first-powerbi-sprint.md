@@ -89,7 +89,7 @@ It’s easy to feel confident at first if you had fundamentals on how to use dat
 A dashboard should be intuitive and meaningful, not just _“ganda lang ang ambag”_. Our audience mental load is our focus, not just the aesthetics visuals.
 
 
-Finally, the best dashboards are built through trial, feedback, and refinement. This is my figures now, after playing around 3 datasets, asking and accepting suggestions from my mentor and groupmates.
+Finally, the best dashboards are built through trial, feedback, and refinement. These are my figures now, after playing around 3 datasets, asking and accepting suggestions from my mentor and groupmates.
 
 ![electricity](/assets/img/electricity.png)
 ![forecast1](/assets/img/forecast1.png)
