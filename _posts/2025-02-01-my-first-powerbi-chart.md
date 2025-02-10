@@ -30,7 +30,7 @@ This is Aubrey. I will walk you through my journey of creating my first Power BI
 
 ### The Dunning-Kruger Effect and My Power BI Learning Curve
 
-The _*Dunning-Kruger effect*_ describes how (us) beginners often feel highly confident with limited knowledge we have, only to later realize how complex a subject actually is.
+The _**Dunning-Kruger effect**_ describes how (us) beginners often feel highly confident with limited knowledge we have, only to later realize how complex a subject actually is.
 
 See how my learning curve looks like: <br>
 
