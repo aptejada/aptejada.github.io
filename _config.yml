@@ -54,14 +54,14 @@ social-network-links:
   #email: "someone@example.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: github.com/aptejada
+  github: aptejada
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: "@daattali"
   #whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-   linkedin: "https://www.linkedin.com/in/aptejada/"
+   linkedin: aptejada
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +75,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-   ORCID: "https://orcid.org/0009-0003-9940-2914"
+#  ORCID: "https://orcid.org/0009-0003-9940-2914"
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
@@ -99,7 +99,7 @@ share-links-active:
   github: true
   linkedin: true
   vk: false
-  ORCID: true
+  ORCID: false
   
 
 # How to display the link to your website in the footer
